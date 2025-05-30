@@ -237,11 +237,7 @@
   }
 
 
-  .landing {
-    position: relative;
-    height: 100vh;
-    overflow: hidden;
-  }
+  
   
   .bg-image {
     position: absolute;
