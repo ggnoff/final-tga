@@ -224,6 +224,13 @@
     /* centers the image */
     background-repeat: no-repeat; 
   }
+  .landing-bodaiju {
+    height: 100vh; /* fills full screen height */
+
+    background-size: cover;         /* scales image to cover whole area */
+    /* centers the image */
+    background-repeat: no-repeat; 
+  }
 
   .last{
     margin-bottom: 100px;
